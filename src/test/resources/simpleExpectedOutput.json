@@ -1,0 +1,26 @@
+{
+  "customerSummaries": [
+    {
+      "customerId": 1,
+      "totalCostInCents": 480,
+      "trips": [
+        {
+          "stationStart": "A",
+          "stationEnd": "D",
+          "startedJourneyAt": 1572242400,
+          "costInCents": 240,
+          "zoneFrom": 1,
+          "zoneTo": 2
+        },
+        {
+          "stationStart": "D",
+          "stationEnd": "A",
+          "startedJourneyAt": 1572282000,
+          "costInCents": 240,
+          "zoneFrom": 2,
+          "zoneTo": 1
+        }
+      ]
+    }
+  ]
+}

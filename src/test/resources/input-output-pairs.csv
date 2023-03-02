@@ -1,0 +1,3 @@
+inputFilePath,outputFilePath,generatedOutput
+src/test/resources/simpleInput.json,src/test/resources/simpleOutput.json,src/test/resources/simpleExpectedOutput.json
+src/test/resources/input.json, src/test/resources/output.json,src/test/resources/expectedOutput.json
